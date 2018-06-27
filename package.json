@@ -1,0 +1,23 @@
+{
+  "name": "comp-ms-shopcart",
+  "version": "1.0.0",
+  "description": "shopcart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranversa/comp-ms-shopcart.git"
+  },
+  "author": "Matheus Freitas / Robson Anversa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranversa/comp-ms-shopcart/issues"
+  },
+  "homepage": "https://github.com/Ranversa/comp-ms-shopcart#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
